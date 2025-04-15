@@ -1,1 +1,3 @@
-# cpp_template
+# template
+for studying
+
